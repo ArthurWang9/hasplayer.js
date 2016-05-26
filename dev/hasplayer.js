@@ -1,6 +1,6 @@
 
 
-/* Last build : 2016-5-25_21:43:42 / git revision : 96a8785 */
+/* Last build : 2016-5-26_14:46:1 / git revision : 96a8785 */
 
 (function (root, factory) {
   if (typeof define === 'function' && define.amd) {
@@ -8969,7 +8969,7 @@ MediaPlayer = function () {
     var VERSION_DASHJS = "1.2.0",
         VERSION = '1.3.0',
         GIT_TAG = '96a8785',
-        BUILD_DATE = '2016-5-25_21:43:42',
+        BUILD_DATE = '2016-5-26_14:46:1',
         context = new MediaPlayer.di.Context(), // default context
         system = new dijon.System(), // dijon system instance
         initialized = false,
